@@ -1,6 +1,3 @@
-# Project
-2016_Mycaffe - Smart Cafe Service
-
 # 설계상 제약 사항
 >- 구현부에서 관리자 Web은 Spring- MVC 패턴을 이용하여 구현.
 >- 비콘 – 사용자(iOS App) 간 통신 구현은 시뮬레이션으로 대체한다.
