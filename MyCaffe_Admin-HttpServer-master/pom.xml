@@ -18,7 +18,7 @@
 	    <repositories>
         <repository>
             <id>mvn2</id>
-            <url>http://repo1.maven.org/maven2/</url>
+            <url>https://repo1.maven.org/maven2/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -29,7 +29,7 @@
          
         <repository>
             <id>egovframe</id>
-            <url>http://www.egovframe.go.kr/maven/</url>
+            <url>https://www.egovframe.go.kr/maven/</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -41,7 +41,7 @@
         <repository>
              <id>oracle</id>
              <name>ORACLE JDBC Repository</name>
-             <url>http://mesir.googlecode.com/svn/trunk/mavenrepo</url>
+             <url>https://mesir.googlecode.com/svn/trunk/mavenrepo</url>
         </repository> 
     	</repositories>
      
